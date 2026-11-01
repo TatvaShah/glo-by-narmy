@@ -27,6 +27,7 @@ export const site: SiteConfig = {
       { src: "/images/post-8.jpg", alt: "Makeup and hair with a red blouse and gold jewellery" },
       { src: "/images/post-5.jpg", alt: "Half saree ceremony look in pink and gold" },
     ],
+    primaryCta: { label: "DM to book", href: "https://ig.me/m/glo_by_narmy" },
     secondaryCta: { label: "See the looks", href: "#gallery" },
   },
 
